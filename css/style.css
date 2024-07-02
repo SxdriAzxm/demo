@@ -1,0 +1,47 @@
+   #heading{
+   background-color:darkmagenta;
+   color: aliceblue;
+   text-align: center;
+}
+
+.paragraph{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+
+}
+.odd{
+    background-color: black;
+    color: aliceblue;
+}
+.even{
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+}
+
+.btn-login{
+    background-color: red;
+    padding: 5px;
+    color: aliceblue;
+    font-size: medium;
+    width: 120 px;
+    border: none;
+    border-radius: 19px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.btn-login:hover{
+    background-color: rgb(133, 4, 4);
+
+}
+
+.btn-login:active{
+    background-color: transparent;
+}
+body{
+    background-image: url(/Users/sadriazam/wallpapers );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
